@@ -95,8 +95,11 @@ https://lookerstudio.google.com/reporting/6cac230d-d6c9-4433-9f93-c59916dd6e65
 ## 🧠 Insights Destacados
 
 Algunas regiones presentan precios poco competitivos frente a otras zonas.
+
 El año del vehículo no siempre influye proporcionalmente en el precio del seguro.
+
 La CDMX concentra una alta variabilidad de precios.
+
 Existen oportunidades para ajustar tarifas sin afectar la cobertura ofrecida.
 
 ---
