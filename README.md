@@ -26,27 +26,27 @@ Presentar insights claros a través de un dashboard interactivo.
 
 ## 🧰 Herramientas Utilizadas
 
-Python (pandas, sqlite3 / connector)
-SQL (consultas analíticas)
-Jupyter Notebook
-Looker Studio (visualización de datos)
-GitHub (documentación y control de versiones)
+- Python (pandas, sqlite3 / connector)
+- SQL (consultas analíticas)
+- Jupyter Notebook
+- Looker Studio (visualización de datos)
+- GitHub (documentación y control de versiones)
 
 ---
 
 ## 📂 Fuente de Datos
 
-Base de datos relacional que contiene información relacionada con:
-Vehículos asegurados
-Precios de seguros
-Ubicación geográfica
-Características del automóvil
+- Base de datos relacional que contiene información relacionada con:
+- Vehículos asegurados
+- Precios de seguros
+- Ubicación geográfica
+- Características del automóvil
 
 ---
 
 ## 📌 Los datos fueron consultados directamente desde la base de datos utilizando SQL desde Python.
 
-## 🧹 Limpieza y Transformación de Datos
+🧹 Limpieza y Transformación de Datos
 
 Las principales tareas realizadas fueron:
 - Conexión a la base de datos y creación de cursor SQL
@@ -70,11 +70,11 @@ Algunos análisis realizados:
 
 ## 📊 KPIs Analizados
 
-Precio promedio del seguro
-Precio por zona geográfica
-Precio por año del vehículo
-Variación de precios entre regiones
-Segmentos con mayor y menor rentabilidad
+- Precio promedio del seguro
+- Precio por zona geográfica
+- Precio por año del vehículo
+- Variación de precios entre regiones
+- Segmentos con mayor y menor rentabilidad
 
 ---
 
@@ -113,7 +113,8 @@ Estos ajustes permitirían una estrategia de precios más justa, competitiva y a
 ---
 
 ## 📁 Estructura del Proyecto
-📦 insurance-pricing-analysis
+📦 nombre-proyecto
+ ┣ 📂 data
  ┣ 📂 notebooks
  ┣ 📂 sql
  ┣ 📂 dashboards
@@ -124,6 +125,6 @@ Estos ajustes permitirían una estrategia de precios más justa, competitiva y a
 
 ## 👤 Autor
 
-Bryan Hernandez Solis
+**Bryan Hernandez Solis**
 Data Analyst Jr
 Python | SQL | Looker Studio | Excel
